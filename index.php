@@ -6,7 +6,7 @@
 </head>
 
 <body>
-    <p>テストのMasterブランチ</p>
-    <p>本番環境です。</p>
+    <p>テストのbranch_1ブランチ</p>
+    <p>開発中の環境です。</p>
 </body>
 </html>
